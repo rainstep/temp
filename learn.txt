@@ -1,0 +1,23 @@
+
+小程序
+vue后台管理
+mycat
+nio
+netty
+rabbitmq
+zookeeper
+redis
+
+vue
+vue-router
+vuex
+axios
+webpack
+npm
+ESLint
+prettier
+babel
+unit testing
+e2e testing
+amaze UI
+element-ui
