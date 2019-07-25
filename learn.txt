@@ -1,13 +1,17 @@
-
-小程序
-vue后台管理
+后端 java python
+前端  html5 css3 es6 vue 小程序
+JAVA
+spring cloud
 mycat
 nio
 netty
 rabbitmq
 zookeeper
 redis
+搜索引擎
 
+前端
+编辑器 vscode hbuildx webstorm sublime
 vue
 vue-router
 vuex
