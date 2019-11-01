@@ -1,15 +1,16 @@
-1. Windows电脑
+一 Windows电脑
 	1.1 下载软件，解压后放到单独的文件中(例如D:\Shadowsocks)，不用安装直接使用(可以复制快捷方式到桌面)
 		下载网址： https://github.com/shadowsocks/shadowsocks-windows/releases
 		当前最新版本下载链接是https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.8.0/Shadowsocks-4.1.8.0.zip
 	1.2 配置服务IP和密码
 
-2. Android手机
+二 Android手机
 	2.1 下载app
 		下载网址： https://github.com/shadowsocks/shadowsocks-android/releases
 		当前最新版本下载链接是https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.5/shadowsocks--universal-4.8.5.apk
 	2.2 配置服务IP和密码
-3. iPhone手机
+	
+三 iPhone手机
 	3.1 登录APP Store，切换美国Apple ID账号(账号信息另外提供), 下载potatso lite(中国账号搜不到此软件)，安装好后切换回自己的Apple ID
 	3.2 打开软件选择添加代理配置，手动配置
 	3.3 配置服务IP、端口和密码
