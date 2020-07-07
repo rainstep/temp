@@ -3,3 +3,4 @@
 正畸
 做菜
 vim
+@Transactional
